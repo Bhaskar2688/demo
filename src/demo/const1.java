@@ -27,5 +27,6 @@ public class const1 { 		//class
 			
 			c.test();
 			c.test();
+			c.test();
 		}
 }
