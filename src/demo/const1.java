@@ -25,7 +25,7 @@ public class const1 { 		//class
 			
 			const1 c = new const1();
 			
-			c.test();
+			
 			c.test();
 			c.test();
 		}
