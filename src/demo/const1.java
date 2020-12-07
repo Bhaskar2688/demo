@@ -18,7 +18,7 @@ public class const1 { 		//class
 			System.out.println(s);
 			System.out.println(this.a);
 			System.out.println("runing method test ");
-			
+			 
 		}
 		
 }
