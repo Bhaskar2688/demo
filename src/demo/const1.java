@@ -21,4 +21,11 @@ public class const1 { 		//class
 			 
 		}
 		
+		public static void main(String[] args) {
+			
+			const1 c = new const1();
+			
+			c.test();
+			
+		}
 }
